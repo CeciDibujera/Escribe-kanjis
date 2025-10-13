@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <title>Escribe kanjis</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="estilos.css" rel="stylesheet">
+        <link rel="icon" type="image/x-icon" href="/favicon.ico">
+        <script src="kanjis.js" defer></script>
+    </head>
+    <body onload='cargar()'>
+    <header>
+        <h1>Escribe kanjis</h1>
+        <div>Coge un papel y escribe los kanjis de memoria ᕕ( ᐛ )ᕗ</div>
+    </header>
+    <main>
+        
+        <div class="bloque">
+            <div id="significado" class="palabra">
+                Significado
+            </div>
+            <div id="kana" class="palabra">
+                Ejemplo
+            </div>
+
+        </div>
+
+        <div class="bloque">
+            <div class="opciones">
+                <p>N5</p>
+                <input type="checkbox" name="N5" id="N5">
+                <p>N4 (incompleto)</p>
+                <input type="checkbox" name="N4" id="N4">
+            </div>
+            <button id="kanji" class="empezar" onclick="boton()">
+                Empezar
+            </button>
+        </div>
+    </main>
+
+    <footer>
+        <p>Elige uno o varios niveles de kanji y dale a empezar. A la izquierda aparecerán el significado y una palabra o varias que contengan ese kanji (en hiragana).
+            Escribe en un papel el kanji a ver si te acuerdas. Cuando lo hayas hecho, dale a la interrogación para ver el kanji correcto.
+            Dale otra vez al kanji para continuar al siguiente.</p>
+
+        <p>El criterio para clasificar qué kanjis son de cada nivel está sacado de los libros <i>Watashi no Nihongo</i> de Sandra Carrascosa.
+            Yo me he hecho esta aplicación para practicar, no tengo nada que ver con ella. Si te sirve a ti también, yo que me alegro \o/
+        </p>
+
+        <p>El N4 está incompleto porque aún no he terminado de estudiarlo, pero lo iré actualizando.</p>
+    </footer>
+    </body>
+</html>

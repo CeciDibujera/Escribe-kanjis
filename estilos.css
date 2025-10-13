@@ -1,0 +1,135 @@
+
+@font-face{
+    font-family: "mplus";
+    src: url("MPLUSRounded1c-Medium.ttf");
+}
+
+@font-face{
+    font-family: "mplusfina";
+    src: url("MPLUSRounded1c-Light.ttf");
+}
+
+body{
+    font-family:"mplus";
+    background-color: #78c0eb;
+}
+
+header{
+    text-align: center;
+    font-size: 150%;
+    color: #005ac0;
+    background-color: #ffffff21;
+    border: 0px solid;
+    border-radius: 20px;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+}
+
+h1{
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+
+main{
+     text-align: center;
+     margin-top: 5px;
+     margin-bottom: 5px;
+}
+
+.bloque{
+    background-color: #ffffff46;
+    margin: 5px;
+    padding: 20px;
+    width: 40%;
+    display: inline-block;
+    vertical-align: bottom;
+    height: 500px;
+    border: 0px solid;
+    border-radius: 40px;
+    align-content: center
+}
+
+.palabra{
+    margin: 20px;
+    padding: 50px;
+    font-size: 250%;
+    text-align: right;
+    background-color:#e1f4ff6c;
+    border: 3px dashed #005ac06c;
+    border-radius: 50px;
+    vertical-align: middle;
+}
+
+.opciones p{
+    display: inline-block;
+    font-size: 130%;
+    margin-right: 5px;
+    margin-left: 20px;
+}
+
+input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+}
+
+.empezar{
+    font-size: 400%;
+    font-family: "mplus";
+    color: #002753;
+    background-color:#005ac06c;
+    border: 0px solid;
+    border-radius: 50px;
+    width: 70%;
+    height: 80%;
+    margin: auto;
+    align-content: center;
+}
+
+.empezar:hover{
+    background-color:#005ac0bd;
+    transition-duration: 0.15s;
+    color: #001a38;
+}
+
+.kanji{
+    font-size: 1500%;
+    font-family: "mplusfina";
+    background-color:#e1f4ff6c;
+    border: 0px solid;
+    border-radius: 50px;
+    width: 70%;
+    height: 80%;
+    margin: auto;
+    align-content: center;
+}
+
+.kanji:hover{
+    background-color:#e1f4ffd0;
+    transition-duration: 0.15s;
+}
+
+footer p{
+    font-size: 110%;
+    font-family:"arial";
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-top: 5px;
+}
+
+footer{
+    background-color: #ffffff21;
+    border: 0px solid;
+    border-radius: 20px;
+    width: 83%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #003b7e;
+}
+

@@ -1,0 +1,17 @@
+{
+    "kanjis":[
+        {"significado": "Hermano pequeño", "kana":"おとうと", "kanji":"弟"},
+        {"significado": "Hermano mayor", "kana":"あに", "kanji":"兄"},
+        {"significado": "Hermana pequeña", "kana":"いもうと", "kanji":"妹"},
+        {"significado": "Hermana mayor", "kana":"あね", "kanji":"姉"},
+        {"significado": "Casa, familia", "kana":"いえ", "kanji":"家"},
+        {"significado": "Familia, tribu", "kana":"かぞく・こうぞく", "kanji":"族"},
+        {"significado": "Progenitores, familiares", "kana":"おや・りょうしん", "kanji":"親"},
+        {"significado": "Primavera", "kana":"はる", "kanji":"春"},
+        {"significado": "Verano", "kana":"なつ", "kanji":"夏"},
+        {"significado": "Otoño", "kana":"あき", "kanji":"秋"},
+        {"significado": "Invierno", "kana":"ふゆ", "kanji":"冬"},
+        {"significado": "Electricidad", "kana":"でんき・でんしゃ", "kanji":"電"}
+    ]
+}
+
