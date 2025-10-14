@@ -66,7 +66,6 @@ function boton(){
                 estado = "kanjitapado"
 
                 kanjis = shuffle(kanjis)
-                console.log(kanjis)
                 
                 //Poner los ejemplos y el significado
                 significado.innerHTML = ""
