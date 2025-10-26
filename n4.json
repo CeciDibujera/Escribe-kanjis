@@ -11,7 +11,18 @@
         {"significado": "Verano", "kana":"なつ", "kanji":"夏"},
         {"significado": "Otoño", "kana":"あき", "kanji":"秋"},
         {"significado": "Invierno", "kana":"ふゆ", "kanji":"冬"},
-        {"significado": "Electricidad", "kana":"でんき・でんしゃ", "kanji":"電"}
+        {"significado": "Electricidad", "kana":"でんき・でんしゃ", "kanji":"電"},
+
+        {"significado": "Mañana", "kana":"あさ", "kanji":"朝"},
+        {"significado": "Mediodía", "kana":"ひる", "kanji":"昼"},
+        {"significado": "Tarde/noche", "kana":"ゆうがた・ゆうしょく", "kanji":"夕"},
+        {"significado": "Noche", "kana":"よる", "kanji":"夜"},
+        {"significado": "Día de la semana", "kana":"ようび", "kanji":"曜"},
+        {"significado": "Brillo, luz", "kana":"あした・あかるい", "kanji":"明"},
+        {"significado": "Arrozal", "kana":"たんぼ", "kanji":"田"},
+        {"significado": "Temprano", "kana":"はやい・おはよう", "kanji":"早"},
+        {"significado": "Cerca", "kana":"ちかい・さいきん", "kanji":"近"},
+        {"significado": "Pesado", "kana":"おもい", "kanji":"重"}
     ]
 }
 
