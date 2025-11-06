@@ -22,7 +22,19 @@
         {"significado": "Arrozal", "kana":"たんぼ", "kanji":"田"},
         {"significado": "Temprano", "kana":"はやい・おはよう", "kanji":"早"},
         {"significado": "Cerca", "kana":"ちかい・さいきん", "kanji":"近"},
-        {"significado": "Pesado", "kana":"おもい", "kanji":"重"}
+        {"significado": "Pesado", "kana":"おもい", "kanji":"重"},
+
+        {"significado": "Especial", "kana":"とくべつ・とくに", "kanji":"特"},
+        {"significado": "Verdad, realidad", "kana":"まんなか・しゃしん", "kanji":"真"},
+        {"significado": "Cuerpo", "kana":"からだ", "kanji":"体"},
+        {"significado": "Poder, fuerza", "kana":"ちから", "kanji":"力"},
+        {"significado": "Diversión", "kana":"たのしい", "kanji":"楽"},
+        {"significado": "Estudio, esfuerzo", "kana":"べんきょう", "kanji":"勉"},
+        {"significado": "Fuerte", "kana":"つよい", "kanji":"強"},
+        {"significado": "Corazón (figurado)", "kana":"こころ", "kanji":"心"},
+        {"significado": "Persona", "kana":"いしゃ・〇〇しゃ", "kanji":"者"},
+        {"significado": "Propio, auto", "kana":"じぶん・じてんしゃ", "kanji":"自"},
+        {"significado": "Pensar", "kana":"かんがえる", "kanji":"考"}
     ]
 }
 
