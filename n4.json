@@ -34,7 +34,19 @@
         {"significado": "Corazón (figurado)", "kana":"こころ", "kanji":"心"},
         {"significado": "Persona", "kana":"いしゃ・〇〇しゃ", "kanji":"者"},
         {"significado": "Propio, auto", "kana":"じぶん・じてんしゃ", "kanji":"自"},
-        {"significado": "Pensar", "kana":"かんがえる", "kanji":"考"}
+        {"significado": "Pensar", "kana":"かんがえる", "kanji":"考"},
+
+        {"significado": "Enfermedad", "kana":"びょうき・びょういん", "kanji":"病"},
+        {"significado": "Sonido", "kana":"おと", "kanji":"音"},
+        {"significado": "Viento, manera", "kana":"かぜ", "kanji":"風"},
+        {"significado": "Ancho, amplio", "kana":"ひろい", "kanji":"広"},
+        {"significado": "Malo", "kana":"わるい", "kanji":"悪"},
+        {"significado": "Color", "kana":"いろ", "kanji":"色"},
+        {"significado": "Plata", "kana":"ぎん", "kanji":"銀"},
+        {"significado": "Campo, natural", "kana":"やさい・やきゅう", "kanji":"野"},
+        {"significado": "Terreno, la Tierra", "kana":"ちかてつ・ちきゅう", "kanji":"地"},
+        {"significado": "Océano, extranjero", "kana":"とうよう・せいよう", "kanji":"洋"}
+
     ]
 }
 
