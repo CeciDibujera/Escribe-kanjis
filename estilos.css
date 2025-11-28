@@ -112,6 +112,26 @@ input[type="checkbox"] {
     transition-duration: 0.15s;
 }
 
+/*Para móviles*/
+@media screen and (max-width: 1100px) {
+    .bloque{
+        display: block;
+        width: 90%;
+        height: 300px;
+    }
+
+    .palabra{
+        padding: 20px;
+        font-size: 220%;
+        text-align: left;
+    }
+
+    .kanji{
+        font-size: 1050%;
+    }
+}
+
+
 footer p{
     font-size: 110%;
     font-family:"arial";
@@ -134,4 +154,6 @@ footer{
     padding-right: 20px;
     color: #003b7e;
 }
+
+
 
