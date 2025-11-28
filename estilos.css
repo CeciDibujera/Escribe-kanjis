@@ -118,16 +118,21 @@ input[type="checkbox"] {
         display: block;
         width: 90%;
         height: 300px;
+        margin: 5px auto;
     }
 
     .palabra{
         padding: 20px;
-        font-size: 220%;
+        font-size: 200%;
         text-align: left;
     }
 
     .kanji{
         font-size: 1050%;
+    }
+
+    .empezar{
+        font-size: 300%;
     }
 }
 
