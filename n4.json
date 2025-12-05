@@ -45,7 +45,19 @@
         {"significado": "Plata", "kana":"ぎん", "kanji":"銀"},
         {"significado": "Campo, natural", "kana":"やさい・やきゅう", "kanji":"野"},
         {"significado": "Terreno, la Tierra", "kana":"ちかてつ・ちきゅう", "kanji":"地"},
-        {"significado": "Océano, extranjero", "kana":"とうよう・せいよう", "kanji":"洋"}
+        {"significado": "Océano, extranjero", "kana":"とうよう・せいよう", "kanji":"洋"},
+
+        {"significado": "Mar", "kana":"うみ", "kanji":"海"},
+        {"significado": "Ciudad, distrito", "kana":"まち", "kanji":"町"},
+        {"significado": "Mundo (1er kanji)", "kana":"せかい・よ", "kanji":"世"},
+        {"significado": "Mundo (2º kanji)", "kana":"せかい", "kanji":"界"},
+        {"significado": "Dibujo, trazo", "kana":"としょかん・ちず", "kanji":"図"},
+        {"significado": "Imagen", "kana":"まんが・えいが", "kanji":"画"},
+        {"significado": "Capital", "kana":"とうきょう・きょうと", "kanji":"京"},
+        {"significado": "Sala", "kana":"しょくどう・こうどう", "kanji":"堂"},
+        {"significado": "Lugar", "kana":"ばしょ・ひろば・かいじょう", "kanji":"場"},
+        {"significado": "Habitación", "kana":"きょうしつ・かいぎしつ", "kanji":"室"},
+        {"significado": "Tienda, casa", "kana":"へや・にくや・おくじょう", "kanji":"屋"}
 
     ]
 }
