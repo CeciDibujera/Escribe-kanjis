@@ -57,7 +57,18 @@
         {"significado": "Sala", "kana":"しょくどう・こうどう", "kanji":"堂"},
         {"significado": "Lugar", "kana":"ばしょ・ひろば・かいじょう", "kanji":"場"},
         {"significado": "Habitación", "kana":"きょうしつ・かいぎしつ", "kanji":"室"},
-        {"significado": "Tienda, casa", "kana":"へや・にくや・おくじょう", "kanji":"屋"}
+        {"significado": "Tienda, casa", "kana":"へや・にくや・おくじょう", "kanji":"屋"},
+
+        {"significado": "China", "kana":"かんじ", "kanji":"漢"},
+        {"significado": "Inglaterra", "kana":"えいご・えいこく", "kanji":"英"},
+        {"significado": "Institución, hospital", "kana":"びょういん・びよういん", "kanji":"院"},
+        {"significado": "Edificio, sala", "kana":"としょかん・えいがかん・りょかん", "kanji":"館"},
+        {"significado": "Pájaro", "kana":"とり", "kanji":"鳥"},
+        {"significado": "Sabor", "kana":"あじ", "kanji":"味"},
+        {"significado": "Perro", "kana":"いぬ", "kanji":"犬"},
+        {"significado": "Té", "kana":"おちゃ", "kanji":"茶"},
+        {"significado": "Arroz cocido, comida", "kana":"ごはん", "kanji":"飯"},
+        {"significado": "Igual, lo mismo", "kana":"おなじ・どうきゅうせい", "kanji":"同"}
 
     ]
 }
